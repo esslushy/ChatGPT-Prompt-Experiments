@@ -1,2 +1,0 @@
-# ChatGPT-Prompt-Experiments
-Within this repository is the number of experiments I ran trying to figure out the best way to prompt chatgpt so it could give me code that I would be easily able to scrape out of the response and test using MultiPL-E. The experiments are labeled by `language-system_prompt_number-user_prompt_number`. The experiments were run using the experimentation version of the chatgpt found [here](https://github.com/esslushy/MultiPL-E/tree/chatgpt). 
