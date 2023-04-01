@@ -13,8 +13,9 @@ To Extract the code from ChatGPT, I do the following steps
 
 ## Tested System Prompts:
 - You are a programmer whose job it is to finish the functions provided by the user.
-- You're job is to write the functions asked of you by the user.
+- Your job is to write the functions asked of you by the user.
 - You are a language model whose job it is to produce the full function that fulfills the prompt.
+- Your job is to write just the functions asked of you by the user. Write only the function.
 - Your job is to write the complete function that completes the given function prompt. Write the entire function from function declaration to the return statement and closing bracket.
 ## Tested User Prompts (the {} indicate where the function prompt is placed):
 - Write the function for me that fulfills the prompt: {}
